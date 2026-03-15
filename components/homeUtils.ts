@@ -62,63 +62,9 @@ export class TestimonialsSlider {
     }
 }
 
-// Form Submission Handler
-export function handleFormSubmit(event: Event) {
-    event.preventDefault();
-    
-    const form = event.target as HTMLFormElement;
-    
-    // Check if reCAPTCHA is completed (if grecaptcha is available)
-    if (typeof grecaptcha !== 'undefined') {
-        const recaptchaResponse = grecaptcha.getResponse();
-        if (recaptchaResponse.length === 0) {
-            alert('Por favor, completa el reCAPTCHA');
-            return;
-        }
-    }
-    
-    // Get form data
-    const formData = new FormData(form);
-    const data = Object.fromEntries(formData);
-    
-    // Here you would typically send the data to your server
-    console.log('Form data:', data);
-    
-    alert('¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.');
-    form.reset();
-    
-    if (typeof grecaptcha !== 'undefined') {
-        grecaptcha.reset();
-    }
-}
-
-// Smooth scroll with offset for fixed header
-export function setupSmoothScroll() {
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            const href = (this as HTMLAnchorElement).getAttribute('href');
-            if (href) {
-                const target = document.querySelector(href);
-                if (target) {
-                    const headerOffset = 80;
-                    const elementPosition = target.getBoundingClientRect().top;
-                    const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
-
-                    window.scrollTo({
-                        top: offsetPosition,
-                        behavior: 'smooth'
-                    });
-                }
-            }
-        });
-    });
-}
-
 // Initialize all scripts
 export function initializeHomePage() {
     setupMenuLinks();
-    setupSmoothScroll();
     
     const slider = new TestimonialsSlider();
     slider.startAutoAdvance();

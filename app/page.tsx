@@ -147,6 +147,7 @@ const t = locales[currentLocale];
 
   const imageAlt = 'Deisy Gerlach';
   const imagePath = "/images/d_g.png";
+  const prevPath = "/deisygerlach";
 
   // Save language in localStorage
   const changeLanguage = (lang: Locale) => {
@@ -207,7 +208,7 @@ const t = locales[currentLocale];
             <div className="hero-image-mobile">
               <img
                 className="hero-image-img"
-                src={imagePath || ""}
+                src={prevPath + imagePath || ""}
                 alt={imageAlt}
                 style={{ width: "100%", height: "auto", borderRadius: "20px", boxShadow: "0 5px 25px rgba(0,0,0,0.15)" }}
               />
@@ -218,7 +219,7 @@ const t = locales[currentLocale];
           <div className="hero-image">
             <img
               className="hero-image-img"
-              src={imagePath || ""}
+              src={prevPath + imagePath || ""}
               alt={imageAlt}
               style={{ width: "100%", height: "auto", borderRadius: "20px", boxShadow: "0 5px 25px rgba(0,0,0,0.15)" }}
             />
@@ -342,7 +343,7 @@ const t = locales[currentLocale];
                 height: '80px'
               }}>
                 <img
-                  src={method.logo}
+                  src={prevPath + method.logo}
                   alt={method.name[currentLocale]}
                   style={{
                     borderRadius: '4px',
