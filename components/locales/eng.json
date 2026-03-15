@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "D. Gerlach",
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "issues": "Issues We Treat",
+      "testimonials": "Testimonials",
+      "booking": "Book Now",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "title": "A safe space to grow and thrive",
+    "description": "Therapy sessions in a safe and confidential environment. Together, we find the best path for you to feel light, whole, and at peace. Transformation comes from within you.",
+    "cta": "Schedule your Consultation"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Individual Therapy",
+        "description": "Personalized sessions to address your specific needs, working on anxiety, depression, self-esteem and personal development."
+      },
+      {
+        "title": "Couples Therapy",
+        "description": "Strengthen your relationship by improving communication, resolving conflicts and building healthier bonds."
+      },
+      {
+        "title": "Family Counseling",
+        "description": "Support for families going through difficult times, improving family dynamics and coexistence."
+      },
+      {
+        "title": "Stress Management",
+        "description": "Practical techniques and tools to manage work, academic and daily life stress."
+      },
+      {
+        "title": "Personal Development",
+        "description": "Reach your goals and discover your maximum potential through a process of self-knowledge and growth."
+      },
+      {
+        "title": "Online Therapy",
+        "description": "Virtual sessions from the comfort of your home, with the same quality and professionalism."
+      }
+    ]
+  },
+  "issues": {
+    "title": "Issues We Treat",
+    "items": [
+      {
+        "title": "Depression",
+        "icon": "🌧️",
+        "description": "Managing feelings of sadness, loss of interest, and low energy."
+      },
+      {
+        "title": "Anxiety",
+        "icon": "💭",
+        "description": "Overcoming excessive worry, nervousness, and restlessness."
+      },
+      {
+        "title": "Social Phobia",
+        "icon": "👥",
+        "description": "Building confidence in social situations and interactions."
+      },
+      {
+        "title": "Mental Blocks",
+        "icon": "🧱",
+        "description": "Breaking through barriers that prevent personal growth."
+      },
+      {
+        "title": "Insomnia",
+        "icon": "🌙",
+        "description": "Improving sleep quality and establishing healthy sleep patterns."
+      },
+      {
+        "title": "Relationship Issues",
+        "icon": "💔",
+        "description": "Healing and improving interpersonal connections."
+      },
+      {
+        "title": "Fears & Phobias",
+        "icon": "⚡",
+        "description": "Confronting and managing specific fears and phobias."
+      },
+      {
+        "title": "Public Speaking",
+        "icon": "🎤",
+        "description": "Developing confidence and skills for public presentations."
+      },
+      {
+        "title": "Shyness",
+        "icon": "😳",
+        "description": "Overcoming social inhibition and building self-confidence."
+      },
+      {
+        "title": "Addictions",
+        "icon": "⛓️",
+        "description": "Breaking free from harmful habits and dependencies."
+      },
+      {
+        "title": "Trauma",
+        "icon": "🩹",
+        "description": "Processing and healing from past traumatic experiences."
+      },
+      {
+        "title": "Self-Esteem",
+        "icon": "🌱",
+        "description": "Building self-confidence and valuing oneself."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "readMore": "Read more",
+    "readLess": "Read less"
+  },
+  "psychologyRainbow": {
+    "title": "The Psychology Rainbow",
+    "subtitle": "Core Concepts in Mental Wellness",
+    "concepts": [
+      "Mindfulness",
+      "Resilience",
+      "Empathy",
+      "Growth",
+      "Balance",
+      "Self-Care",
+      "Connection"
+    ]
+  },
+  "paymentMethods": {
+    "title": "Payment Methods"
+  },
+  "booking": {
+    "title": "Schedule Your Appointment",
+    "description": "Select the day and time that works best for your consultation. It's quick and easy."
+  },
+  "contact": {
+    "title": "Schedule your Consultation",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} D. Gerlach. All rights reserved.",
+    "tagline": "Your mental health matters."
+  },
+  "whatsapp": {
+    "message": "Hello, I would like to schedule a consultation",
+    "aria": "Contact via WhatsApp"
+  }
+}
+

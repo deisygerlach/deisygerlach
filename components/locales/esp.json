@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "D. Gerlach",
+    "nav": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "issues": "Problemas que Tratamos",
+      "testimonials": "Testimonios",
+      "booking": "Agendar",
+      "contact": "Contacto"
+    }
+  },
+  "hero": {
+    "title": "Un espacio seguro para crecer y florecer",
+    "description": "Sesiones terapéuticas en un ambiente seguro y confidencial. Juntos encontramos el mejor camino para que te sientas ligero, completo y en paz. La transformación viene desde tu interior.",
+    "cta": "Agenda tu Consulta"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "items": [
+      {
+        "title": "Terapia Individual",
+        "description": "Sesiones personalizadas para abordar tus necesidades específicas, trabajando en ansiedad, depresión, autoestima y desarrollo personal."
+      },
+      {
+        "title": "Terapia de Pareja",
+        "description": "Fortalece tu relación mejorando la comunicación, resolviendo conflictos y construyendo vínculos más saludables."
+      },
+      {
+        "title": "Orientación Familiar",
+        "description": "Apoyo para familias que atraviesan momentos difíciles, mejorando la dinámica familiar y la convivencia."
+      },
+      {
+        "title": "Manejo del Estrés",
+        "description": "Técnicas y herramientas prácticas para gestionar el estrés laboral, académico y de la vida cotidiana."
+      },
+      {
+        "title": "Desarrollo Personal",
+        "description": "Alcanza tus metas y descubre tu máximo potencial a través de un proceso de autoconocimiento y crecimiento."
+      },
+      {
+        "title": "Terapia Online",
+        "description": "Sesiones virtuales desde la comodidad de tu hogar, con la misma calidad y profesionalismo."
+      }
+    ]
+  },
+  "issues": {
+    "title": "Problemas que Tratamos",
+    "items": [
+      {
+        "title": "Depresión",
+        "icon": "🌧️",
+        "description": "Manejo de sentimientos de tristeza, pérdida de interés y baja energía."
+      },
+      {
+        "title": "Ansiedad",
+        "icon": "💭",
+        "description": "Superación de preocupaciones excesivas, nerviosismo e inquietud."
+      },
+      {
+        "title": "Fobia Social",
+        "icon": "👥",
+        "description": "Construcción de confianza en situaciones e interacciones sociales."
+      },
+      {
+        "title": "Bloqueos Mentales",
+        "icon": "🧱",
+        "description": "Rompiendo barreras que impiden el crecimiento personal."
+      },
+      {
+        "title": "Insomnio",
+        "icon": "🌙",
+        "description": "Mejorando la calidad del sueño y estableciendo patrones saludables."
+      },
+      {
+        "title": "Problemas de Pareja",
+        "icon": "💔",
+        "description": "Sanando y mejorando las conexiones interpersonales."
+      },
+      {
+        "title": "Miedos y Fobias",
+        "icon": "⚡",
+        "description": "Confrontando y manejando miedos y fobias específicas."
+      },
+      {
+        "title": "Hablar en Público",
+        "icon": "🎤",
+        "description": "Desarrollando confianza y habilidades para presentaciones públicas."
+      },
+      {
+        "title": "Timidez",
+        "icon": "😳",
+        "description": "Superando la inhibición social y construyendo autoconfianza."
+      },
+      {
+        "title": "Adicciones",
+        "icon": "⛓️",
+        "description": "Liberándose de hábitos dañinos y dependencias."
+      },
+      {
+        "title": "Trauma",
+        "icon": "🩹",
+        "description": "Procesando y sanando experiencias traumáticas del pasado."
+      },
+      {
+        "title": "Autoestima",
+        "icon": "🌱",
+        "description": "Fortaleciendo la confianza personal y la valoración de uno mismo."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonios",
+    "readMore": "Ver más",
+    "readLess": "Ver menos"
+  },
+  "psychologyRainbow": {
+    "title": "El Arcoíris de la Psicología",
+    "subtitle": "Conceptos Fundamentales del Bienestar Mental",
+    "concepts": [
+      "Atención Plena",
+      "Resiliencia",
+      "Empatía",
+      "Crecimiento",
+      "Equilibrio",
+      "Autocuidado",
+      "Conexión"
+    ]
+  },
+  "paymentMethods": {
+    "title": "Métodos de Pago"
+  },
+  "booking": {
+    "title": "Agenda tu Cita",
+    "description": "Selecciona el día y hora que mejor te convenga para tu consulta. Es rápido y fácil."
+  },
+  "contact": {
+    "title": "Agenda tu Consulta",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} D. Gerlach. Todos los derechos reservados.",
+    "tagline": "Tu salud mental importa."
+  },
+  "whatsapp": {
+    "message": "Hola, me gustaría agendar una consulta",
+    "aria": "Contactar por WhatsApp"
+  }
+}
+

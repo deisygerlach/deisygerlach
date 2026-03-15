@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "esp": "Pix",
+      "eng": "Pix",
+      "por": "Pix"
+    },
+    "logo": "/images/pix.png"
+  },
+  {
+    "id": 2,
+    "name": {
+      "esp": "PayPal",
+      "eng": "PayPal",
+      "por": "PayPal"
+    },
+    "logo": "/images/paypal.svg"
+  },
+  {
+    "id": 3,
+    "name": {
+      "esp": "Revolut",
+      "eng": "Revolut",
+      "por": "Revolut"
+    },
+    "logo": "/images/revolut.svg"
+  },
+  {
+    "id": 4,
+    "name": {
+      "esp": "MercadoPago",
+      "eng": "MercadoPago",
+      "por": "MercadoPago"
+    },
+    "logo": "/images/mercadopago.webp"
+  }
+]
