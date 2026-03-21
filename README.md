@@ -1,6 +1,6 @@
-# Psico Bienestar - Psychology Practice Website
+# Deisy Gerlach
 
-A modern, multilingual website for a professional psychology practice with support for Spanish, English, and Portuguese.
+A modern, multilingual website for a professional therapy practice with support for Spanish, English, and Portuguese.
 
 ## 🌟 Features
 

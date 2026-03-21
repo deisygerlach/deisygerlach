@@ -23,7 +23,7 @@ const locales = {
 };
 
 export default function Home() {
-  const [currentLocale, setCurrentLocale] = useState<Locale>("esp");
+  const [currentLocale, setCurrentLocale] = useState<Locale>("por");
 
   const [currentSlide, setCurrentSlide] = useState(0);
   const [isDarkMode, setIsDarkMode] = useState(true);
@@ -93,7 +93,7 @@ const t = locales[currentLocale];
     // Auto-advance slider
     const interval = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % testimonialsData.length);
-    }, 5000);
+    }, 15000);
 
     return () => clearInterval(interval);
   }, []);

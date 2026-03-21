@@ -1,6 +1,6 @@
 {
   "header": {
-    "logo": "D. Gerlach",
+    "logo": "Deisy Gerlach",
     "nav": {
       "home": "Inicio",
       "services": "Servicios",
@@ -21,18 +21,6 @@
       {
         "title": "Terapia Individual",
         "description": "Sesiones personalizadas para abordar tus necesidades específicas, trabajando en ansiedad, depresión, autoestima y desarrollo personal."
-      },
-      {
-        "title": "Terapia de Pareja",
-        "description": "Fortalece tu relación mejorando la comunicación, resolviendo conflictos y construyendo vínculos más saludables."
-      },
-      {
-        "title": "Orientación Familiar",
-        "description": "Apoyo para familias que atraviesan momentos difíciles, mejorando la dinámica familiar y la convivencia."
-      },
-      {
-        "title": "Manejo del Estrés",
-        "description": "Técnicas y herramientas prácticas para gestionar el estrés laboral, académico y de la vida cotidiana."
       },
       {
         "title": "Desarrollo Personal",
@@ -83,11 +71,6 @@
         "description": "Confrontando y manejando miedos y fobias específicas."
       },
       {
-        "title": "Hablar en Público",
-        "icon": "🎤",
-        "description": "Desarrollando confianza y habilidades para presentaciones públicas."
-      },
-      {
         "title": "Timidez",
         "icon": "😳",
         "description": "Superando la inhibición social y construyendo autoconfianza."
@@ -115,7 +98,7 @@
     "readLess": "Ver menos"
   },
   "psychologyRainbow": {
-    "title": "El Arcoíris de la Psicología",
+    "title": "El Arcoíris de la Terapia",
     "subtitle": "Conceptos Fundamentales del Bienestar Mental",
     "concepts": [
       "Atención Plena",
@@ -145,7 +128,7 @@
     }
   },
   "footer": {
-    "copyright": "© {year} D. Gerlach. Todos los derechos reservados.",
+    "copyright": "© {year} Deisy Gerlach. Todos los derechos reservados.",
     "tagline": "Tu salud mental importa."
   },
   "whatsapp": {

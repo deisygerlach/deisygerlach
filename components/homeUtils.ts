@@ -47,7 +47,7 @@ export class TestimonialsSlider {
         });
     }
 
-    startAutoAdvance(interval: number = 5000) {
+    startAutoAdvance(interval: number = 15000) {
         this.intervalId = window.setInterval(() => {
             this.currentSlide = (this.currentSlide + 1) % this.slides.length;
             this.updateSlider();

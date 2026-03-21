@@ -1,6 +1,6 @@
 {
   "header": {
-    "logo": "D. Gerlach",
+    "logo": "Deisy Gerlach",
     "nav": {
       "home": "Início",
       "services": "Serviços",
@@ -21,18 +21,6 @@
       {
         "title": "Terapia Individual",
         "description": "Sessões personalizadas para atender às suas necessidades específicas, trabalhando ansiedade, depressão, autoestima e desenvolvimento pessoal."
-      },
-      {
-        "title": "Terapia de Casal",
-        "description": "Fortaleça seu relacionamento melhorando a comunicação, resolvendo conflitos e construindo vínculos mais saudáveis."
-      },
-      {
-        "title": "Orientação Familiar",
-        "description": "Apoio para famílias que passam por momentos difíceis, melhorando a dinâmica familiar e a convivência."
-      },
-      {
-        "title": "Gestão do Estresse",
-        "description": "Técnicas e ferramentas práticas para gerenciar o estresse do trabalho, acadêmico e da vida cotidiana."
       },
       {
         "title": "Desenvolvimento Pessoal",
@@ -83,11 +71,6 @@
         "description": "Confrontando e gerenciando medos e fobias específicas."
       },
       {
-        "title": "Falar em Público",
-        "icon": "🎤",
-        "description": "Desenvolvendo confiança e habilidades para apresentações públicas."
-      },
-      {
         "title": "Timidez",
         "icon": "😳",
         "description": "Superando a inibição social e construindo autoconfiança."
@@ -115,7 +98,7 @@
     "readLess": "Ver menos"
   },
   "psychologyRainbow": {
-    "title": "O Arco-Íris da Psicologia",
+    "title": "O Arco-Íris da Terapia",
     "subtitle": "Conceitos Fundamentais do Bem-Estar Mental",
     "concepts": [
       "Atenção Plena",
@@ -145,7 +128,7 @@
     }
   },
   "footer": {
-    "copyright": "© {year} D. Gerlach. Todos os direitos reservados.",
+    "copyright": "© {year} Deisy Gerlach. Todos os direitos reservados.",
     "tagline": "Sua saúde mental importa."
   },
   "whatsapp": {
