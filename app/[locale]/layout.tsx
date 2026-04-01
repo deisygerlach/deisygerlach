@@ -20,36 +20,36 @@ const localeMeta: Record<
   }
 > = {
   esp: {
-    title: "Sesiones de Terapia Profesional | Bienestar Mental",
+    title: "Terapia Integrativa",
     description:
-      "Sesiones de terapia profesional. Apoyo emocional, terapia individual y bienestar mental. Agenda tu consulta hoy.",
+      "Sesiones de terapia integrativa. Apoyo emocional, terapia individual y bienestar mental. Agenda tu consulta hoy.",
     keywords:
       "terapia, salud mental, bienestar emocional, terapeuta, consulta terapéutica",
     author: "Deisy Gerlach",
-    openGraphTitle: "Sesiones de Terapia Profesional",
+    openGraphTitle: "Sesiones de Terapia Integrativa",
     openGraphDescription:
-      "Apoyo emocional y terapia profesional para tu bienestar mental",
+      "Apoyo emocional y terapia integrativa para tu bienestar mental",
   },
   eng: {
-    title: "Professional Therapy Sessions | Mental Wellness",
+    title: "Integrative Therapy",
     description:
-      "Professional therapy sessions. Emotional support, individual therapy, and mental wellness. Book your consultation today.",
+      "Integrative therapy sessions. Emotional support, individual therapy, and mental wellness. Book your consultation today.",
     keywords: "therapy, mental health, emotional wellness, therapist, counseling",
     author: "Deisy Gerlach",
-    openGraphTitle: "Professional Therapy Sessions",
+    openGraphTitle: "Integrative Therapy",
     openGraphDescription:
-      "Emotional support and professional therapy for your mental wellness",
+      "Emotional support and integrative therapy for your mental wellness",
   },
   por: {
-    title: "Sessões de Terapia Profissional | Bem-estar Mental",
+    title: "Terapia Integrativa",
     description:
-      "Sessões de terapia profissional. Apoio emocional, terapia individual e bem-estar mental. Agende sua consulta hoje.",
+      "Sessões de terapia integrativa. Apoio emocional, terapia individual e bem-estar mental. Agende sua consulta hoje.",
     keywords:
       "terapia, saúde mental, bem-estar emocional, terapeuta, consulta terapêutica",
     author: "Deisy Gerlach",
-    openGraphTitle: "Sessões de Terapia Profissional",
+    openGraphTitle: "Sessões de Terapia Integrativa",
     openGraphDescription:
-      "Apoio emocional e terapia profissional para o seu bem-estar mental",
+      "Apoio emocional e terapia integrativa para o seu bem-estar mental",
   },
 };
 
