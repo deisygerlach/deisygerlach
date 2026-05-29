@@ -15,7 +15,7 @@ A modern, multilingual website for a professional therapy practice with support 
 ## 📁 Project Structure
 
 ```
-deisygerlach/
+deisygerlach_-modified-agent-ai-gskjsgwqfsndff@f/
 ├── index.html              # Main HTML file
 ├── styles.css              # All CSS styles
 ├── script.js               # JavaScript functionality

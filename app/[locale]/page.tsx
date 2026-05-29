@@ -145,7 +145,7 @@ export default function Home() {
 
   const imageAlt = "Deisy Gerlach";
   const imagePath = "/images/d_g.png";
-  const prevPath = "/deisygerlach";
+  const prevPath = "/deisygerlach_-modified-agent-ai-gskjsgwqfsndff@f";
 
   const changeLanguage = (lang: Locale) => {
     localStorage.setItem("langDGerlach", lang);

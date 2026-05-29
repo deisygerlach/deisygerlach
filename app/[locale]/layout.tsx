@@ -5,7 +5,7 @@ const LOCALES = ["esp", "eng", "por"] as const;
 
 const siteOrigin =
   (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
-const metadataBase = new URL(`${siteOrigin}/deisygerlach/`);
+const metadataBase = new URL(`${siteOrigin}/deisygerlach_-modified-agent-ai-gskjsgwqfsndff@f/`);
 type AppLocale = (typeof LOCALES)[number];
 
 const localeMeta: Record<

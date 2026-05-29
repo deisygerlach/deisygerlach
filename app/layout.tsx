@@ -14,9 +14,9 @@ const siteOrigin =
 
 /**
  * Base para resolver URLs relativas de metadata (canonical, og:url, etc.).
- * Incluye `basePath` porque las páginas públicas viven bajo `/deisygerlach/`.
+ * Incluye `basePath` porque las páginas públicas viven bajo `/deisygerlach_-modified-agent-ai-gskjsgwqfsndff@f/`.
  */
-export const metadataBase = new URL(`${siteOrigin}/deisygerlach/`);
+export const metadataBase = new URL(`${siteOrigin}/deisygerlach_-modified-agent-ai-gskjsgwqfsndff@f/`);
 
 /** Metadata de `/` (redirección al idioma guardado); el detalle por idioma está en `app/[locale]/layout.tsx`. */
 export const metadata: Metadata = {
